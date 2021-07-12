@@ -39,6 +39,9 @@
 # to ensure that I wasa trying to print the string value of the item in the list.
 
 # Code:
+# Backpack Full of Stuff
+# Code by AJChestnut
+# April 14, 2019
 
 import sys
 
