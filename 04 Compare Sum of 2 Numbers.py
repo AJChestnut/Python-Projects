@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 04:
 # Write a program that asks for two numbers. If the sum of the numbers is greater 
 # than 100, print "They add up to a big number" if it is less than/equal to 100 
 # than print "They add up to ____".
