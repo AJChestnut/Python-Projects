@@ -2,9 +2,12 @@
 
 #This week, you will write another program. This time, you will do the same thing twice. 
 # 
-# First, take a set of 6 grades from a user and average them. Provide the average to the user. You need to check to make sure the grades are within the normal range. If the grade is less than 0 or more than 100, issue a warning to the user. You don't need to take the grade again, just let the user know. 
+# First, take a set of 6 grades from a user and average them. Provide the average to the user. You need to check to make 
+# sure the grades are within the normal range. If the grade is less than 0 or more than 100, issue a warning to the user. 
+# You don't need to take the grade again, just let the user know. 
 # 
-# Second, ask the user how many grades they have. Ask for all the grades and again provide an average. Make sure to check that the grades are within the normal range as above and issue a warning to the user. 
+# Second, ask the user how many grades they have. Ask for all the grades and again provide an average. Make sure to check 
+# that the grades are within the normal range as above and issue a warning to the user. 
 # 
 # For any function you use, use the following comment block as before the function to document it. 
 # 
@@ -16,9 +19,16 @@
 # 
 # # returns:  
 # 
-# Fill in the sections as necessary for what you are doing. Document your code as in your previous programming assignment, including the attribution block indicating your name, class, etc. Include text or screen captures indicating your program works. 
+# Fill in the sections as necessary for what you are doing. Document your code as in your previous 
+# programming assignment, including the attribution block indicating your name, class, etc. Include 
+# text or screen captures indicating your program works. 
 
-# This assignment had me working with functions. Functions were a strange concept to me. I understand the usfulness of defining code that repeats in the scripts as a function, however, it was difficult for me to understand how to place them in the code to make proper use of them. I thought about coding it so that if the user entered in a number outside of the acceptable range, it would produce and error message and let them try again, but in reading the assignment, I decided that that was out of scope for this project. 
+# This assignment had me working with functions. Functions were a strange concept to me. I understand 
+# the usfulness of defining code that repeats in the scripts as a function, however, it was difficult 
+# for me to understand how to place them in the code to make proper use of them. I thought about coding 
+# it so that if the user entered in a number outside of the acceptable range, it would produce and error 
+# message and let them try again, but in reading the assignment, I decided that that was out of scope 
+# for this project. 
 
 # Code:
 
