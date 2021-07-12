@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment #1:
 # Write a program that has a conversation with the user. 
 # The program must ask for both strings and numbers as input.
 # The program must ask for at least 4 different inputs from the user.
