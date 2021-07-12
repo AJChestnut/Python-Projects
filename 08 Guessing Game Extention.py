@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 08:
 # Extend your guessing game from last week.  Write a program that picks a random number from 1-100.  
 # Then ask the user to guess a number. Tell the user if the answer is higher or lower than the number 
 # they guessed, or if they got the correct answer.  Allow them to guess again if they got the guess incorrect.  
