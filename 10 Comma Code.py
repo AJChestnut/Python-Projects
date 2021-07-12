@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 10:
 # Say you have a list value like this:
 # listToPrint = ['apples', 'bananas', 'tofu', 'cats']
 # Write a program that prints a list with all the items separated by a comma and a space, 
