@@ -1,4 +1,4 @@
-# Assigment: 
+# Assigment 02: 
 # Implement a voting test. The user enters their age and then the program prints 
 # either, “You must be 18 to vote” or “You are of voting age”.
 
