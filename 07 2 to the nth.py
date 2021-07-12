@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 07:
 
 # Write a program that prints 2n where n goes from 1 to 100. Print one answer per line 
 # (note: you are answering the question, how high can you count on 100 fingers). 
