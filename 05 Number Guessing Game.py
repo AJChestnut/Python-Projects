@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 05:
 # Implement a random number guessing game. The computer will pick a number 
 # at random from 0-9, the user will be asked to guess the number.  
 # Inform the user if they get the answer correct.
