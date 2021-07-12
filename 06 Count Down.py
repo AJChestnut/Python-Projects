@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 06:
 # Write a program that counts down from 10. Implement your program first with a while loop.  
 # Now implement your program with a for loop. Include both versions in your submission file.
 
