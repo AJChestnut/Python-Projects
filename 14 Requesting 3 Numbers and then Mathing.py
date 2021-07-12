@@ -1,14 +1,20 @@
 # Assignment 14:
-# Write a Python program requesting a name and three numbers from the user. The program will need to calculate the following:
+# Write a Python program requesting a name and three numbers from the user. The program will need 
+# to calculate the following:
 # 
 # the sum of the three numbers
 # the result of multiplying the three numbers
 # divide the first by the second then multiply by the third
 # Print a message greeting the user by name and the results of each of the mathematical operations. 
 # 
-# You must provide a comment block at the top indicating your name, the course, the section, and the date as well as a description of the program. Also, comment as necessary to clearly explain what it is you are doing where you are doing it in the program. 
+# You must provide a comment block at the top indicating your name, the course, the section, and 
+# the date as well as a description of the program. Also, comment as necessary to clearly explain 
+# what it is you are doing where you are doing it in the program. 
 
-# This was the first assignment of my second class on learning Python. It wasa mostly a refresher on things that I had already learned from the first class, but there was one significant new thing — storing number inputs as integers from the get go. I also did some additional research to learn how to round the last answer to a set number of decimal places.
+# This was the first assignment of my second class on learning Python. It wasa mostly a refresher 
+# on things that I had already learned from the first class, but there was one significant new 
+# thing — storing number inputs as integers from the get go. I also did some additional research 
+# to learn how to round the last answer to a set number of decimal places.
 
 Code: 
   
