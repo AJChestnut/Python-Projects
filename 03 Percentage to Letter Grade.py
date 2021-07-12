@@ -1,4 +1,4 @@
-# Assignment:
+# Assignment 03:
 # Ask the user to enter a grade percentage.  Convert the grade into a letter grade.  
 # For instance, if the user types 99 then print A+.
 
